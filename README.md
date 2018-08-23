@@ -1,0 +1,2 @@
+# Kony-Sample-Stubs
+Kony Fabric provides the ability to send stubbed response, that uses a template to generate sample data dynamically and respond to the client app, instead of connecting to actual backend URL and getting data. This allows apps to be developed while backend services are still unavailable. Few template samples for datasets like employee, countries, products are provided below for reference. The feature is available from Kony V8 Service Pack 3. Please see doc for more details.
